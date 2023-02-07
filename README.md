@@ -2,7 +2,6 @@
 ## Meu nome é Leandro Fé 
 ### Estou:
 - 🔭 Buscando vaga de desenvolvedor back-end
-- 🌱 Estudando Python
 
 <div align="center">
   <a href="https://github.com/LeandroLFE">
