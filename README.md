@@ -1,7 +1,5 @@
 # Olá! 👋
 ## Meu nome é Leandro Fé 
-### Estou:
-- 🔭 Buscando vaga de desenvolvedor back-end
 
 <div align="center">
   <a href="https://github.com/LeandroLFE">
